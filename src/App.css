@@ -1,0 +1,67 @@
+.wrapper {
+  width: 25%;
+
+  margin: auto;
+  background-color: skyblue;
+}
+.login-heading {
+  text-align: center;
+}
+.login-mail {
+  display: flex;
+  flex-direction: column;
+}
+.login-password {
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper .button-wrapper {
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.reg-wrapper {
+  width: 25%;
+
+  margin: auto;
+  background-color: skyblue;
+}
+.reg-wrapper .reg-heading {
+  text-align: center;
+}
+.reg-wrapper .reg-name {
+  display: flex;
+  flex-direction: column;
+}
+.reg-wrapper .reg-email {
+  display: flex;
+  flex-direction: column;
+}
+.reg-wrapper .reg-password {
+  display: flex;
+  flex-direction: column;
+}
+.reg-wrapper .reg-repassword {
+  display: flex;
+  flex-direction: column;
+}
+.reg-wrapper .reg-gender {
+  display: flex;
+  flex-direction: column;
+}
+.reg-wrapper .reg-age {
+  display: flex;
+  flex-direction: column;
+}
+.reg-wrapper .register-button {
+  margin: 10px;
+}
+.welcome-page {
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+  background-color: bisque;
+}
